@@ -1,0 +1,10 @@
+{
+  "accuracy": 1.0,
+  "samples": 400,
+  "features": [
+    "attendance",
+    "internal_marks",
+    "assignment_marks",
+    "previous_score"
+  ]
+}
